@@ -1,7 +1,7 @@
 {
-  "name": "react-router-redux-universal-example",
+  "name": "universal-react-router-redux-isomorphic-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a simple Isomorphic React Router Redux App（ES6+）example writing in Universal JavaScript.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

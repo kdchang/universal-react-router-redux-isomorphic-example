@@ -1,5 +1,5 @@
-# React Router Redux Universal/Isomorphic Example
-This is a simple Universal/Isomorphic React Router Redux App（ES6+）example.
+# Universal React Router Redux Isomorphic Example
+This is a simple Isomorphic React Router Redux App（ES6+）example writing in Universal JavaScript.
 
 ## Technology Stack
 1. React / ReactDOM
