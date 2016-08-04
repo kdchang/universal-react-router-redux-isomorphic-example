@@ -10,8 +10,8 @@ This is a simple Isomorphic React Router Redux App（ES6+）example writing in U
 6. Webpack
 7. ES6+（Babel）
 
-## Why Universal/Isomorphic ?
-1. SEO Friendly
+## Why Isomorphic ?
+1. SEO Friendly（server side rendering）
 2. Backend and Frontend share the same code（JavaScript、React）
 3. Better page loading speed
 
